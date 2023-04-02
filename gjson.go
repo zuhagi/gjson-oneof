@@ -1,16 +1,15 @@
 // Package gjson provides searching for json strings.
-package gjson
+package gjson_oneof
 
 import (
+	"github.com/tidwall/match"
+	"github.com/tidwall/pretty"
 	"strconv"
 	"strings"
 	"time"
 	"unicode/utf16"
 	"unicode/utf8"
 	"unsafe"
-
-	"github.com/tidwall/match"
-	"github.com/tidwall/pretty"
 )
 
 // Type is Result type

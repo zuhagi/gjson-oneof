@@ -1,4 +1,4 @@
-package gjson
+package gjson_oneof
 
 import (
 	"bytes"
