@@ -1,4 +1,4 @@
-module github.com/tidwall/gjson-oneof
+module github.com/zyhagi/gjson-oneof
 
 go 1.12
 
